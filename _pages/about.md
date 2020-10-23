@@ -1,0 +1,16 @@
+---
+permalink: /
+title: "Ekaterina Mastropas, PhD"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+Former physicist, current data scientist. 
+
+Bio
+======
+Lorem Ipsum
+
